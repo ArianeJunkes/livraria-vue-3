@@ -1,5 +1,5 @@
 <script>
-import AutoresApi from "@/api/autores";
+import AutoresApi from "@/api/autor";
 const autoresApi = new AutoresApi();
 export default {
   data() {
